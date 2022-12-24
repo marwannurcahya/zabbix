@@ -1,7 +1,7 @@
 # zabbix
 zabbix monitoring for netsentra
 anggota :
-- Marwan Saitama
+- Marwan Pingin Kaya
 - Oei Hulk
 - Tamam Spiderman
 - Akila Antman
