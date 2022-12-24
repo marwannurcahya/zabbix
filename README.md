@@ -1,7 +1,7 @@
 # zabbix
 zabbix monitoring for netsentra
 anggota :
-- Marwan Ironman
+- Marwan Saitama
 - Oei Hulk
 - Tamam Spiderman
 - Akila Antman
